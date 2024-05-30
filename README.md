@@ -1,7 +1,4 @@
-# TrinhTrinh
-Hello World!
 
-<img src="https://raw.githubusercontent.com/trinhtrinh342004/trinhtrinh342004/output/snake.svg" alt="Snake animation" />
 
 ###
 
